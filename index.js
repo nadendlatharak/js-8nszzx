@@ -19,6 +19,7 @@ var user = {
 
 console.log(user[id])
 console.log(user)
+console.log("sahdkajddk")
 
 // user[id] = "dasu";
 // console.log(user[id])
